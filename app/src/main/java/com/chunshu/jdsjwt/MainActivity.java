@@ -198,11 +198,11 @@ public class MainActivity extends AppCompatActivity {
                 if (url.startsWith("tel:")) {
                     Intent sendIntent = new Intent(Intent.ACTION_DIAL, Uri.parse(url));
                     startActivity(sendIntent);
-                    return false;
+                    return true;
                 } else if (url.startsWith("sms:")) {
                     Intent sendIntent = new Intent(Intent.ACTION_SENDTO, Uri.parse(url));
                     startActivity(sendIntent);
-                    return false;
+                    return true;
                 } else {
 //                    view.loadUrl(url);
                     return super.shouldOverrideUrlLoading(view, url);
