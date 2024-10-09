@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#FFFFFF</color>
+    <color name="colorAccent">#1c3c7a</color>
+    <color name="colorLoginBlue">#5aaeee</color>
+    <color name="colorLoginDeepBlue">#5aaeee</color>
+    <color name="gray">#dddddd</color>
+    <color name="colorTabGray">#f7f7f7</color>
+
+    <color name="colorDeepBlue">#1c3c7a</color>
+    <color name="colorDouyinBulletBlue">#9ae0f9</color>
+    <color name="colorDouyinBulletWhite">#fdfbff</color>
+    <color name="colorBgWhite">#d6d8d7</color>
+    <color name="colorDarkDeepBlue">#151d32</color>
+    <color name="colorGray">#666666</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorGreen">#35c672</color>
+    <color name="colorRed">#FF0000</color>
+    <color name="colorOrange">#FF6600</color>
+    <color name="colorGray80">#A0666666</color>
+    <color name="colorGray10">#30666666</color>
+    <color name="colorWhite80">#A0FFFFFF</color>
+    <color name="colorWhiteFF80">#eeeeee</color>
+    <color name="colorGreen80">#A03ddc84</color>
+    <color name="colorRed80">#A0FF0000</color>
+
+    <color name="contents_text">#ff000000</color>
+    <color name="encode_view">#ffffffff</color>
+    <color name="possible_result_points">#c0ffbd21</color> <!-- Android standard ICS color -->
+    <color name="result_minor_text">#ffc0c0c0</color>
+    <color name="result_points">#c099cc00</color> <!-- Android standard ICS color -->
+    <color name="result_text">#ffffffff</color>
+    <color name="result_view">#b0000000</color>
+    <color name="status_text">#ffffffff</color>
+    <color name="transparent">#00000000</color>
+    <color name="viewfinder_laser">#ffcc0000</color> <!-- Android standard ICS color -->
+    <color name="viewfinder_mask">#60000000</color>
+</resources>
